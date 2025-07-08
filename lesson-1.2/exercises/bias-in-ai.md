@@ -6,4 +6,4 @@ Now complete this exercise, you will [work directly with a model trained on real
 
 
 ### Reflections
-[What did you learn from this exercise]
+I learned about chatbox bias and how they use data sets to distinguish between toxicity and non toxic words. 
